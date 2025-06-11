@@ -62,7 +62,7 @@ export interface PersonalInfo {
 // あなたのパーソナル情報をここで編集してください
 export const personalInfo: PersonalInfo = {
   // 基本情報
-  name: "アコア 大輝ジョエル",
+  name: "Zeur",
   title: "駆け出し大学生",
   location: "Tokyo, Japan",
   avatarImage: "avatar.jpg", // 画像を追加したい場合はpublicフォルダに配置
